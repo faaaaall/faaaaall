@@ -8,7 +8,7 @@
   <b>Basics:</b>
 </p>
   <p align="center">
-  Kali Tools | Pentesting | Networking
+  Wireless Pentesting | Pentesting | Networking
 </p>
 
 <h3 align="center">Skills & Technologies</h3>
