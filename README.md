@@ -68,3 +68,13 @@ I'm always looking for opportunities to learn, contribute, and gain hands-on exp
 </p> 
   French A1/Beginner
 </p> 
+
+<h2>Web Sites</h2>
+
+<p>
+  <a href="https://faaaaall.gatonet.club/">Personal</a>
+</p>
+
+<p>
+  <a href="https://faaaaall.gatonet.club/github-business/">Business</a>
+</p>
