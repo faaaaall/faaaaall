@@ -80,11 +80,11 @@ I'm always looking for opportunities to learn, contribute, and gain hands-on exp
 <h2>Web Sites</h2>
 
 <p>
-  <a href="https://faaaaall.gatonet.club/">Personal</a>
+  <a href="https://faaaaall.gatonet.club/">Personal Articles</a>
 </p>
 
 <p>
-  <a href="https://faaaaall.gatonet.club/github-business/">Business</a>
+  <a href="https://faaaaall.gatonet.club/github-business/">Technical Articles</a>
 </p>
 
 <p>
