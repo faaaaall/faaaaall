@@ -86,3 +86,7 @@ I'm always looking for opportunities to learn, contribute, and gain hands-on exp
 <p>
   <a href="https://faaaaall.gatonet.club/github-business/">Business</a>
 </p>
+
+<p>
+  <a href="https://www.linkedin.com/in/enzosecc/">LinkedIn</a>
+</p>
