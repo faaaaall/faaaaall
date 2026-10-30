@@ -66,7 +66,7 @@ I'm always looking for opportunities to learn, contribute, and gain hands-on exp
 </p>
 
 <h2>Languages</h2>
-Portuguese Brazilian (native)
+
 <p>
   Portuguese Brazilian (native)
 <p>
