@@ -63,6 +63,9 @@ I'm always looking for opportunities to learn, contribute, and gain hands-on exp
   Discord: f_aaall
   <p>
   enzoffsec@gmail.com
+  <p>
+  <a href="https://www.linkedin.com/in/enzosecc/">LinkedIn</a>
+  </p>
 </p>
 
 <h2>Languages</h2>
@@ -85,8 +88,4 @@ I'm always looking for opportunities to learn, contribute, and gain hands-on exp
 
 <p>
   <a href="https://faaaaall.gatonet.club/github-business/">Technical Articles</a>
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/enzosecc/">LinkedIn</a>
 </p>
