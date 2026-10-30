@@ -5,10 +5,17 @@
 <h3 align="center">Currently Studying</h3> 
 
 <p align="center">
-  <b>Basics:</b>
+  <b>Fundamentals:</b>
 </p>
   <p align="center">
-  Wireless Pentesting | Pentesting | Networking
+  Wireless Pentesting | Pentesting | C Language | Malware Developer
+</p>
+<p align="center">
+  
+  <b>Advanced:</b>
+</p>
+  <p align="center">
+  Python Scripting | Web Pentesting | Networking
 </p>
 
 <h3 align="center">Skills & Technologies</h3>
