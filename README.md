@@ -12,12 +12,13 @@
 </p>
 <p align="center">
   
+<p align="center">
   <b>Advanced:</b>
 </p>
   <p align="center">
   Python Scripting | Web Pentesting | Networking
 </p>
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="center">Skills & Technologies</h3>
 
 <p align="center">
