@@ -62,7 +62,7 @@ I'm always looking for opportunities to learn, contribute, and gain hands-on exp
 <p>
   Discord: f_aaall
   <p>
-  goodbyefaall@gmail.com
+  enzoffsec@gmail.com
 </p>
 
 <h2>Languages</h2>
